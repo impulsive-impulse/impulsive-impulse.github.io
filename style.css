@@ -59,7 +59,7 @@ a.no_decoration:hover {
 }
 
 #scroll_text {
-   color: #555;
+   color: #000;
    text-align: center;
    margin: 20px auto;
 }
@@ -70,7 +70,7 @@ a.no_decoration:hover {
 
 header {
    width:100%;
-   background: #ff6600;
-   color: white;
+   background: #08800e;
+   color: #000000;
    padding-bottom: 14px;
 }
